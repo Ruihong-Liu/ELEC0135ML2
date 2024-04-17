@@ -10,3 +10,6 @@ Required environments:
     -pillow
     -matplotlib
     -tqdm
+    -torch torchvision
+    -pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
+    -Also, a yaml file in each task folder contains a copy of the environment
