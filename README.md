@@ -13,3 +13,5 @@ Required environments:
     -torch torchvision
     -pip install torch torchvision torchaudio --extra-index-url https://download.pytorch.org/whl/cu113
     -Also, a yaml file in each task folder contains a copy of the environment
+The code could run using main.py directly or could run the code in each task separately. No change need to be made
+if the dataset is in correct path, or the dataset path needs to be changed.
